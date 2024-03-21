@@ -1,2 +1,2 @@
 # projects
-this my new project.
+this my new python course syllabus.
